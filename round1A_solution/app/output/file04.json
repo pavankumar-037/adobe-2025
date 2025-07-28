@@ -1,0 +1,950 @@
+{
+  "title": "STEM",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "STEM",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PTHSD",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "OPTIONS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "REGULAR",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "credits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Math",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "credits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Science",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "credits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM-designated",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "electives",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Maintain",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "overall",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.85",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "GPA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Participate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "minimum",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "presentations/conferences",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "each",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "year",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "required",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "minimum",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "total",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "presentations/conferences",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "throughout",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "years",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Join",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "actively",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "participate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM-related",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "extracurricular",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "activity",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "club",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "every",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "year",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "attendance.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "DISTINCTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PATHWAY",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "credits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Math",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "least",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "one",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "math",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "course",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "should",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Math",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "class.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "credits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Science-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "least",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "one",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "science",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "course",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "should",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Science",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "class.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "credits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM-designated",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "electives",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "One",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "must",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Computer",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Science/Technology",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Class",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Maintain",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "overall",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "3.5",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "GPA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Participate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "minimum",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "presentations/conferences",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "year",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "required",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "minimum",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "total",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "presentations/conferences",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "throughout",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "years.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Join",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "actively",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "participate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM-related",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "extracurricular",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "activity",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "club",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "every",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "year",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "attendance.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Either",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "participate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "internship",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "design",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "implement",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "community",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "impact",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "project.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Inspire",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "keen",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "interest",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "mathematics,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "science,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "engineering,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "technology,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "develop",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "strong",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "scholarship",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "subject",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "promote",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "enjoyment",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "these",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "studies",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "high",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "school.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Expose",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "students",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "potential",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "career",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "opportunities",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "field.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Encourage",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "students",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pursue",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "higher",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "education",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "major",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "careers.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Promote",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "interactions",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "with",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STEM",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "professionals",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "learn",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "about",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "future",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "opportunities.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Support",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "field",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "experiences",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "connected",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "world",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "outside",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "school",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "building.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Signal",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "employers,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "universities,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "training",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "programs,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "military",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "that",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "student",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "has",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "completed",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "comprehensive",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "course",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "study",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "specialized",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "area.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Cultivate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "transferable",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "work",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "habits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "such",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "perseverance,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "goal",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "setting,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "self-direction.",
+      "page": 1
+    }
+  ]
+}
